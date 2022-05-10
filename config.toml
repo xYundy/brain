@@ -1,9 +1,9 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://brain.xyundy.pl/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = ""
 pygmentsUseClasses = true
 relativeURLs = false
-disablePathToLower = true
+disablePathToLower = false
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",

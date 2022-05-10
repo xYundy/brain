@@ -1,17 +1,14 @@
-name: Jacky Zhao
+name: Wojciech Zięciak
 enableToc: true
 openToc: false
 enableLinkPreview: true
-enableLatex: true
+enableLatex: false
 enableSPA: true
 enableContextualBacklinks: true
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  W tym miejscu dzielę się z Tobą wszystkim co wiem. Stworzyłem je przede wszystkim dla siebie, aby móc łatwo wracać do wszystkich zamieszczonych tu materiałów. Jednocześnie pomyślałem że to wszystko może okazać się równie wartościowe dla Ciebie.
 page_title:
-  "🪴 Quartz 3.2"
+  "brain.xyundy.pl"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/xYundy

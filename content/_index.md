@@ -1,27 +1,17 @@
 ---
-title: 🪴 Quartz 3.2
+title: Co to za miejsce?
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+  
+![xyundy](https://assets.xyundy.pl/xyundy/xyundy_mono.png?v1)
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]]
-5. Support for both Markdown Links and Wikilinks
+TODO
 
 ## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+TODO
 
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with.
+## Wyszukiwanie
 
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
+Wszystkie zawarte tutaj informacje możesz przeszukiwać z pomocą wyszukiwarki dostępnej na tej stronie, którą możesz włączyć skrótem **⌘ + /** lub **CTRL + /**
 
-- [All Notes](/notes)
-- [Setup-related Notes](/tags/setup)
-
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+> **Ważne!** Jeżeli w jakichś definicjach znajdziesz błąd lub chcesz zasugerować zmianę, będę Ci za to bardzo wdzięczny. Możesz to zrobić z pomocą Pull Request przesłanym do [tego repozytorium](https://github.com/xyundy/brain), [zgłaszając Issue](https://github.com/xyundy/brain/issues/new) lub po prostu pisząc do mnie na [e-mail](mailto:hello@xyundy.pl).
